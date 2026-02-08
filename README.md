@@ -1,4 +1,4 @@
-# Future-of-Software-Engineer
+# Future of Software Engineering
 Daily analysis and ranking of the future of software engineering.
 
 # Goal and methodology
